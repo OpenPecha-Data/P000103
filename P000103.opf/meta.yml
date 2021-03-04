@@ -1,3 +1,13 @@
+ebook_metadata:
+  title: ༄༅། །ཐུན་མིན་སྔོན་འགྲོའི་ཁྲིད་ཡིག་སྙིང་པོ་ཀུན་དྲིལ་མ་བཞུགས་སོ། །
+  authors:
+  - མཛད་པ་པོ། མཚུངས་མེད་གྲུབ་པའི་དབང་ཕྱུག་ཤཱཀྱ་ཤྲཱི་ཛྙཱ་ནའི་རྒྱལ་སྲས་འཕགས་མཆོག་རྡོ་རྗེ་མཆོག
+  sku: KS-SP-02
+  layers:
+  - book_title
+  - author
+  - quotation
+  - sabche
 web_metadata:
   title:
     en: The All Encompassing Quintessence:An Instruction on the Uncommon Preliminary
@@ -25,15 +35,3 @@ web_metadata:
   description:
     en: ''
     bo: ''
-id: P000103
-initial_creation_type: ebook
-source_metadata:
-  title: ༄༅། །ཐུན་མིན་སྔོན་འགྲོའི་ཁྲིད་ཡིག་སྙིང་པོ་ཀུན་དྲིལ་མ་བཞུགས་སོ། །
-  authors:
-  - མཛད་པ་པོ། མཚུངས་མེད་གྲུབ་པའི་དབང་ཕྱུག་ཤཱཀྱ་ཤྲཱི་ཛྙཱ་ནའི་རྒྱལ་སྲས་འཕགས་མཆོག་རྡོ་རྗེ་མཆོག
-  layers:
-  - book_title
-  - author
-  - quotation
-  - sabche
-  id: KS-SP-02
